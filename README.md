@@ -1,5 +1,5 @@
 University of Galway     
-BI453 Biochemistry Final Year Research Project   
+BI453 Final Year Biochemistry Research Project   
 Author: Róisín Culligan    
 Title: Assessing the Stability of Molecular Cancer Class Discovery using Non-Negative Matrix Factorisation    
 Date: 22/03/2024
